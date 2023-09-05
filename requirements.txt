@@ -1,0 +1,5 @@
+yt-dlp==2023.7.6
+miniaudio==1.59
+
+fastapi==0.103.1
+uvicorn==0.23.2
